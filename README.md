@@ -27,6 +27,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Chikun2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chikun2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+[![Adityacoder2004's GitHub | Stats](https://stats.quine.sh/Adityacoder2004/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Adityacoder2004)
 
 ## 🏆 GitHub Trophies
 
